@@ -17,7 +17,7 @@ namespace MyProjectPi
                 return Fibonachi(n - 1) + Fibonachi(n - 2);
             }
 
-            int fib4 = Fibonachi(4);
+            fib4 = Fibonachi(4);
             int fib5 = Fibonachi(5);
             int fib6 = Fibonachi(6);
 
